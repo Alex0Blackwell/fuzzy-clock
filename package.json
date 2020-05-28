@@ -1,0 +1,19 @@
+{
+  "name": "fuzzy-clock",
+  "version": "1.0.0",
+  "description": "gives the time with a quarter of an hour precision",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "time",
+    "clock",
+    "JavaScript"
+  ],
+  "author": "Alex Blackwell",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
